@@ -218,7 +218,8 @@ address=/nr-data.net/0.0.0.0
 address=/omnitagjs.com/0.0.0.0
 address=/omniture.com/0.0.0.0
 address=/omtrdc.net/0.0.0.0
-address=/onelink.me/0.0.0.0
+# onelink is used in valid Tinkoff lead links, e.g. tinkoffbank.onelink.me
+# address=/onelink.me/0.0.0.0
 address=/online-metrix.net/0.0.0.0
 address=/onscroll.com/0.0.0.0
 address=/openx.net/0.0.0.0
