@@ -153,6 +153,7 @@ address=/googletagmanager.com/0.0.0.0
 address=/googletagservices.com/0.0.0.0
 address=/gumgum.com/0.0.0.0
 address=/h1.msn.com/0.0.0.0
+address=/hexagon-analytics.com/0.0.0.0
 address=/heyzap.com/0.0.0.0
 address=/histats.com/0.0.0.0
 address=/hits.theguardian.com/0.0.0.0
